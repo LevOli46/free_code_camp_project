@@ -1,3 +1,23 @@
 h1 {
     font-size: 29px;
+    padding: 30px;
+}
+
+header {
+    display: block;
+    text-align: center;
+}
+
+html {
+    background-color: rgb(189, 185, 185);
+}
+
+img {
+    max-width: 500px;
+}
+
+.image {
+    background-color: white;
+    max-width: 500px;
+    margin: auto;
 }
