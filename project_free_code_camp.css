@@ -10,6 +10,7 @@ header {
 
 html {
     background-color: rgb(189, 185, 185);
+    padding: 15px;
 }
 
 img {
@@ -20,4 +21,8 @@ img {
     background-color: white;
     max-width: 500px;
     margin: auto;
+}
+
+p{
+    padding: 15px;
 }
